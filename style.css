@@ -1,0 +1,47 @@
+/*Personal Style*/
+p {
+	text-align: justify;
+}
+
+/*Log In Form*/
+fieldset.login {
+	background-color: #ffd480;
+	color: black;
+	border: 0.5em solid orange;
+	padding: 1em 0;
+	text-align: center;
+}
+
+/*Footer Cover*/
+footer {
+	background-image: url('TeaRickHouse.jpg');
+	background-repeat: repeat-x;
+	background-position: bottom;
+	color: white;
+	text-shadow: 3px 3px black;
+}
+
+/*Sign up*/
+fieldset.signup {
+	background-color: #ffd480;
+	color: black;
+	border: 0.5em solid orange;
+	padding: 1em 0;
+	text-align: center;
+}
+fieldset th {	
+	font-weight: normal;
+	text-align: left;
+	width: 40%;
+}
+/*Menu Table*/
+table.tblmenu th {
+	width: 50%;
+	padding: 1em;
+}
+table.tablemenu td {
+	padding: 1em;
+}
+input.cb {
+	float: right;
+}

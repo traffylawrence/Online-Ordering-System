@@ -1,0 +1,21 @@
+Product List
+
+Snacks
+Product - File name
+
+SNACKS
+Takoyaki with Baby Octopus - fd01, fd02,
+Takoyaki Regular - fd03
+Crinkle Fries - fd04
+Curly Fries - fd05
+Criss Cut Fries - fd06
+
+MILKTEAS
+All Flavor - mt01, mt02, mt03
+Strawberry Cream Puff - mt04
+Red Velvet Deluxe - mt05
+Wintermelon Deluxe - mt06
+Dark Chocolate Deluxe - mt07
+Choco Nutella - mt08
+Matcha Cream Cheese - mt09
+Taro Cream - mt10
